@@ -21,6 +21,7 @@ public class FindMaxDuplicates{
       1,2,3,4,5,7,7,7
     };
     FindMaxBrute(arr);
+    
 
   }
 }
