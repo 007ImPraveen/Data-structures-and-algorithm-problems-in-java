@@ -10,13 +10,13 @@ Data structures :
 2) Linked Lists
 3) Queues 
 4) Stacks 
-5) Priority Queues 
+5) Priority Queues (Heaps)
 6) BST 
-7) AVL tree
-8) Tree traversals 
+7) AVL tree ( imp Rotations )
+8) Tree traversals ( Recursive and non Recursive )
 
 
 Algorithms :
 1) Greedy Algorithms 
 2) Dynammic programming
-
+3) Divide and conquer
