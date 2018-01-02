@@ -1,6 +1,7 @@
 import java.util.Arrays;
 
 public class CountOccurences{
+  
   public static void CountOccurencesBrute(int[] arr,int key ){
     int size= arr.length;
     int count= 0;
