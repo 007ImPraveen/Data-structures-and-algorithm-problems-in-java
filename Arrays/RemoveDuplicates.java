@@ -3,7 +3,7 @@ class RemoveDuplicates{
     int size = arr.length; 
     int j = 0;                       
     for(int i = 0;i < size;i++){
-      if (arr[i] != arr[j]){                // if same value, j holds the last reference of the unique numbers 
+      if (arr[i] != arr[j]){                // if same value, j holds the last reference of the last unique numbers 
         j++;
         arr[j] = arr[i];
       }
